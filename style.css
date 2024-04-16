@@ -4,9 +4,6 @@
   box-sizing: border-box;
 }
 
-body {
-  border: 2px solid red;
-}
 .main {
   font-family: "roboto";
   width: 100vw;
